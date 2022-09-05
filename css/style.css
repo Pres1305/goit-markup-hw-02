@@ -91,7 +91,6 @@ body {
 .text-link {
   color: var(--primary-text-color);
   text-decoration: none;
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -202,7 +201,7 @@ body {
 }
 
 /* PAGE PORTFOLIO */
-.por tfolio-ykir {
+.portfolio-ykir {
   text-decoration: none;
 }
 .portfolio-title {
